@@ -1,0 +1,5 @@
+/.env
+/.nyc_output/
+/coverage/
+# Project exclude paths
+/node_modules/
