@@ -3,3 +3,5 @@
 /coverage/
 # Project exclude paths
 /node_modules/
+/.cache/
+/.idea/
